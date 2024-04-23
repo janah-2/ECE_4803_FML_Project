@@ -1,0 +1,29 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /home/hice1/jhassan6/Project
+train: images/train  
+val: images/val     
+test: images/test  
+
+# Classes
+names:
+  0: baseball bat
+  1: bird
+  2: breast
+  3: bus
+  4: cat
+  5: chalk group
+  6: clock
+  7: cow
+  8: dog
+  9: dolphin above
+  10: dolphin below
+  11: buildings
+  12: camo
+  13: forest
+  14: water
+  15: pizza
+  16: polyp
+  17: salt dome
+  18: skin
+  19: stop sign
+  20: tie
